@@ -1,0 +1,7 @@
+name: APITest
+version: ${project.version}
+main: com.github.mori01231.apitest.APITest
+api-version: 1.15
+depend: [PlayerPoints]
+authors: [Mori01231]
+description: testing to see if I can load an API correctly
